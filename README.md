@@ -37,4 +37,4 @@ SPOTIFY-MINI-PROJ/
 ├── spotify.html
 ├── spotify.css
 ├── README.md
-└── .gitignore
+
